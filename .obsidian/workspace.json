@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "b2cdce9644ca297c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2292e375d89e5dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22b5bc66cf4e6f1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diodo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "diodo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9d2c196329e4efb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd4f57856d8dad8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bb4bd7178822777",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9bcf0f8872f24e3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4763d616de9e0eea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0728effb73a1a421",
+    "type": "split",
+    "children": [
+      {
+        "id": "32dd7a0e54adcb81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4e5d63c1d8b3ff2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "diodo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for diodo"
+            }
+          },
+          {
+            "id": "242d01cbd698c664",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "diodo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from diodo"
+            }
+          },
+          {
+            "id": "3e5134b77f3af63a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cee4498a6b15eac9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "diodo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of diodo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "22b5bc66cf4e6f1a",
+  "lastOpenFiles": [
+    "arduino.md",
+    "transistor.md",
+    "infrarrojos.md",
+    "motor paso a paso.md",
+    "controlador ULN2003.md",
+    "PaP código.md",
+    "Pasted image 20250404095640.png",
+    "L293D.md",
+    "entradas arduino.md",
+    "protocolo comunicación IR.md",
+    "función random.md",
+    "Display 7 segmentos.md",
+    "74HC595.md",
+    "sensor ultrasonido.md",
+    "motor DC.md",
+    "bobinas.md",
+    "diodo.md",
+    "pulsador.md",
+    "pines.md",
+    "función botón.md",
+    "reproductor de música.md",
+    "servo motor.md",
+    "buzzer pasivo.md",
+    "switch C++.md",
+    "map arduino.md",
+    "string arduino.md",
+    "LCD.md"
+  ]
+}

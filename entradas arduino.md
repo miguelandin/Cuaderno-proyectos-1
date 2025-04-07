@@ -1,0 +1,2 @@
+- Una entrada **Analógica** tiene 10 bits por lo que puede tener un valor entre 0 y 1023.
+- Una entrada **digital** puede tiene un bit por lo que solo puede tener dos estados, $1 / 0$.
